@@ -1,0 +1,48 @@
+url,name,price,comprice,comquantity,comunit,timestamp
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20768660_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,100% Pure Vegetable Oil,5,0.53,100,ml,2025-04-11T14:45:03.420Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21375718_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Plant Based Pea Crumbs,3.79,1.52,100,g,2025-04-11T14:45:23.080Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20627618010_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Balsamic Dressing,2.75,0.58,100,ml,2025-04-11T14:45:29.680Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21525801_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Soft Éclair Caramel Candy,3.79,3.27,100,g,2025-04-11T14:45:36.369Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21391318002_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,"Source 0% Smooth Traditional Yogurt, Cherry, No Added Sugar",3.49,0.55,100,g,2025-04-11T14:45:43.495Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20970909_KG?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Frozen Pork Back Ribs,20.2,0.88,100,g,2025-04-11T14:45:50.536Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21587411_C12?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Zero Sugar Grapefruit,7.99,0.19,100,ml,2025-04-11T14:45:57.112Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21124826_KG?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,Free From Skin On Turkey Drumsticks,7.49,1.21,100,g,2025-04-11T14:46:03.379Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21352008_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Free From Australian Lean Ground Lamb,10.99,2.42,100,g,2025-04-11T14:46:10.111Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21062259_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,Dipping Sauce Mix,2.29,6.36,100,g,2025-04-11T14:46:17.925Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21604120_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Decaffeinated Black Tea,9.49,3.8,100,g,2025-04-11T14:46:24.432Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20801110_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Apple Caramel Blossoms,4.5,1.97,100,g,2025-04-11T14:46:30.962Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21432028_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Grilled Ready Veggie Eggplant,4,0.8,100,g,2025-04-11T14:46:38.427Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20866076_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Dried Boneless Cod Bits,12,2.64,100,g,2025-04-11T14:46:45.123Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20896887_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,Evaporated Milk,1.75,0.49,100,ml,2025-04-11T14:46:51.793Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21357255_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,Vegetable Chips Sour Cream & Onion,3.79,2.69,100,g,2025-04-11T14:46:58.799Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21596496_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Sub Trio Slices Club Pack,11,1.83,100,g,2025-04-11T14:47:05.967Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20250536_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Light Swiss Cheese Sliced 18% M.F. Club Size,15.99,3.2,100,g,2025-04-11T14:47:13.100Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20249223_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Sliced Monterey Jack with Jalapeno Cheese,7.99,4.7,100,g,2025-04-11T14:47:21.456Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20302507_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Franco American Turkey Gravy,0.79,0.28,100,ml,2025-04-11T14:47:29.041Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21194365_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Super Herbal Tea-Boost Peach Ginger Dan with Vitamin B6,3.99,0.2,1,ea,2025-04-11T14:47:36.340Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21596514_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Black Forest Ham Slices Club Pack,11,1.83,100,g,2025-04-11T14:47:44.303Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20686492001_KG?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Long Beans,1.54,1.54,100,g,2025-04-11T14:47:52.287Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21357254_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Vegetable Chips Salt & Vinegar,3.79,2.69,100,g,2025-04-11T14:47:59.889Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20967234_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,Rosée Pasta Sauce,3.99,1.33,100,ml,2025-04-11T14:48:06.697Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21194351_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Real Thin Crackers Garlic Rosemary,5.99,4.22,100,g,2025-04-11T14:48:15.308Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21628561_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,LINDOR Easter Milk Chocolate Mini Eggs Pouch,7.99,4.44,100,g,2025-04-11T14:48:23.131Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20685574001_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Stirred Yogurts 0 % M.F.,5.79,0.48,100,g,2025-04-11T14:48:29.994Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20314629002_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,"Whole Tomatoes, No Salt Added",2.5,0.31,100,ml,2025-04-11T14:48:36.801Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20527710_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,Savory Stuffed Turkey,8.99,1.98,100,g,2025-04-11T14:48:42.893Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21013378_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,Nabob Cappuccino Coffee Single Serve T-Discs,7.99,3.04,100,g,2025-04-11T14:48:49.396Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21400663_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Chocolate Dip,4.49,1.8,100,g,2025-04-11T14:48:55.776Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20800613_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,The Decadent Molten Chocolate Cakes,5,2.31,100,g,2025-04-11T14:49:02.349Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20021666_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,"Peanuts, Dry Roasted",5.99,1,100,g,2025-04-11T14:49:08.340Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20557542_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,Rinse Agent,5.49,2.2,100,ml,2025-04-11T14:49:14.482Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21022299_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,Whole Kernel Corn Niblets,2.75,0.37,100,g,2025-04-11T14:49:23.092Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21603234_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Seasoned Pork Loin Roast Maple Apple Flavour,13.99,1.92,100,g,2025-04-11T14:49:29.215Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21040069_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,"Black Beans, No Salt Added",1.79,0.33,100,ml,2025-04-11T14:49:35.806Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20339076_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Original Trail Mix Club Size,11.99,1.2,100,g,2025-04-11T14:49:42.624Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21597829_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Flaked Light Tuna In Olive Oil & Chili Pepper,7.5,3.13,100,g,2025-04-11T14:49:48.647Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21620822_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,"Ready To Serve Soup Tomato, Basil & Orzo",3.5,0.65,100,ml,2025-04-11T14:49:54.693Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20585460_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,Ready Bake Garlic Bread,2.59,0.91,100,g,2025-04-11T14:50:00.961Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20659079_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Bread Original Swedish Style Light Rye,2.47,0.54,100,g,2025-04-11T14:50:07.984Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21393210_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Jute Leaves Dahon Ng Saluyot,2.29,1.01,100,g,2025-04-11T14:50:14.731Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21626847_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,Title not available,NULL,NULL,NULL,NULL,2025-04-11T14:50:20.818Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20882065001_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Mango Malai Kulfi Indian Style Ice Cream,7.69,2.14,100,ml,2025-04-11T14:50:27.095Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21290680_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Herb & Garlic Cheddar Cheese Slices,6.5,3.25,100,g,2025-04-11T14:50:33.248Z

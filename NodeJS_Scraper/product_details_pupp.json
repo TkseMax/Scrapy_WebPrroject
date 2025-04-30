@@ -1,0 +1,413 @@
+[
+  {
+    "name": "Roma Tomatoes",
+    "price": "0.79",
+    "com_price": 0.659,
+    "com_quantity": 100,
+    "com_unit": "g"
+  },
+  {
+    "name": "Mango",
+    "price": "1.29",
+    "com_price": "1.29",
+    "com_quantity": "1",
+    "com_unit": "ea"
+  },
+  {
+    "name": "Cilantro",
+    "price": "0.99",
+    "com_price": "0.99",
+    "com_quantity": "1",
+    "com_unit": "ea"
+  },
+  {
+    "name": "Roma Tomatoes",
+    "price": "0.79",
+    "com_price": 0.659,
+    "com_quantity": 100,
+    "com_unit": "g"
+  },
+  {
+    "name": "Mango",
+    "price": "1.29",
+    "com_price": "1.29",
+    "com_quantity": "1",
+    "com_unit": "ea"
+  },
+  {
+    "name": "Cilantro",
+    "price": "0.99",
+    "com_price": "0.99",
+    "com_quantity": "1",
+    "com_unit": "ea"
+  },
+  {
+    "name": "Garlic Bulbs, 3-count",
+    "price": "0.99",
+    "com_price": "0.33",
+    "com_quantity": "1",
+    "com_unit": "ea"
+  },
+  {
+    "name": "Ginger",
+    "price": "1.38",
+    "com_price": 0.659,
+    "com_quantity": 100,
+    "com_unit": "g"
+  },
+  {
+    "name": "Colossal Garlic",
+    "price": "1.32",
+    "com_price": 1.3210000000000002,
+    "com_quantity": 100,
+    "com_unit": "g"
+  },
+  {
+    "name": "Title not available",
+    "price": "Price not available",
+    "com_price": "Comparing Price unavailable",
+    "com_quantity": "Comparing Quantiy unavailable",
+    "com_unit": "Comparing unit not available"
+  },
+  {
+    "name": "Red Onions, 3 lb Bag",
+    "price": "5.99",
+    "com_price": "0.44",
+    "com_quantity": "100",
+    "com_unit": "g"
+  },
+  {
+    "name": "Ritz Original Crackers",
+    "price": "2.5",
+    "com_price": "1.39",
+    "com_quantity": "100",
+    "com_unit": "g"
+  },
+  {
+    "name": "Ah Caramel® The Original Cakes",
+    "price": "4.29",
+    "com_price": "1.28",
+    "com_quantity": "100",
+    "com_unit": "g"
+  },
+  {
+    "name": "Smoked Black Forest Ham Slices",
+    "price": "3.5",
+    "com_price": "2",
+    "com_quantity": "100",
+    "com_unit": "g"
+  },
+  {
+    "name": "Jalapeno Peppers",
+    "price": "0.55",
+    "com_price": 1.1,
+    "com_quantity": 100,
+    "com_unit": "g"
+  },
+  {
+    "name": "Almond Beverage, Unsweetened Original ",
+    "price": "3.5",
+    "com_price": "0.19",
+    "com_quantity": "100",
+    "com_unit": "ml"
+  },
+  {
+    "name": "Curly Parsley",
+    "price": "1.99",
+    "com_price": "1.99",
+    "com_quantity": "1",
+    "com_unit": "ea"
+  },
+  {
+    "name": "Oat Beverage, Original",
+    "price": "3.5",
+    "com_price": "0.2",
+    "com_quantity": "100",
+    "com_unit": "ml"
+  },
+  {
+    "name": "Ataulfo Mango",
+    "price": "1.99",
+    "com_price": "1.99",
+    "com_quantity": "1",
+    "com_unit": "ea"
+  },
+  {
+    "name": "Pacific White Shrimp Raw Peeled, Large",
+    "price": "10.99",
+    "com_price": "2.75",
+    "com_quantity": "100",
+    "com_unit": "g"
+  },
+  {
+    "name": "Plantains, Single",
+    "price": "0.94",
+    "com_price": 0.284,
+    "com_quantity": 100,
+    "com_unit": "g"
+  },
+  {
+    "name": "Almond For Coffee, Vanilla Flavour, Plant Based Dairy Free Coffee Creamer",
+    "price": "5",
+    "com_price": "0.56",
+    "com_quantity": "100",
+    "com_unit": "ml"
+  },
+  {
+    "name": "Tofu, Extra Firm",
+    "price": "2.99",
+    "com_price": "0.85",
+    "com_quantity": "100",
+    "com_unit": "g"
+  },
+  {
+    "name": "Title not available",
+    "price": "Price not available",
+    "com_price": "Comparing Price unavailable",
+    "com_quantity": "Comparing Quantiy unavailable",
+    "com_unit": "Comparing unit not available"
+  },
+  {
+    "name": "Purple Eggplants",
+    "price": "3.76",
+    "com_price": 0.659,
+    "com_quantity": 100,
+    "com_unit": "g"
+  },
+  {
+    "name": "Almond Milk Alternative, Zero Sugar Original, Dairy-Free",
+    "price": "2.97",
+    "com_price": "0.16",
+    "com_quantity": "100",
+    "com_unit": "ml"
+  },
+  {
+    "name": "Pepsi Cans ",
+    "price": "13.99",
+    "com_price": "0.16",
+    "com_quantity": "100",
+    "com_unit": "ml"
+  },
+  {
+    "name": "Smoked Turkey Breast Slices",
+    "price": "3.5",
+    "com_price": "2",
+    "com_quantity": "100",
+    "com_unit": "g"
+  },
+  {
+    "name": "Cola Zero Sugar Fridge Pack Cans",
+    "price": "7.99",
+    "com_price": "0.19",
+    "com_quantity": "100",
+    "com_unit": "ml"
+  },
+  {
+    "name": "Tortilla Chips Salted",
+    "price": "4.49",
+    "com_price": "1.28",
+    "com_quantity": "100",
+    "com_unit": "g"
+  },
+  {
+    "name": "Kolbassa Sausage",
+    "price": "7.49",
+    "com_price": 1.9969999999999999,
+    "com_quantity": 100,
+    "com_unit": "g"
+  },
+  {
+    "name": "Traditional Naan Dippers",
+    "price": "4.5",
+    "com_price": "2.25",
+    "com_quantity": "100",
+    "com_unit": "g"
+  },
+  {
+    "name": "Grass Fed Lean Ground Beef",
+    "price": "7",
+    "com_price": "1.56",
+    "com_quantity": "100",
+    "com_unit": "g"
+  },
+  {
+    "name": "Cola Fridge Pack Cans",
+    "price": "7.99",
+    "com_price": "0.19",
+    "com_quantity": "100",
+    "com_unit": "ml"
+  },
+  {
+    "name": "Cola Cans",
+    "price": "13.99",
+    "com_price": "0.16",
+    "com_quantity": "100",
+    "com_unit": "ml"
+  },
+  {
+    "name": "Snap Peas",
+    "price": "3.99",
+    "com_price": "1.76",
+    "com_quantity": "100",
+    "com_unit": "g"
+  },
+  {
+    "name": "Rapini",
+    "price": "2.99",
+    "com_price": "2.99",
+    "com_quantity": "1",
+    "com_unit": "ea"
+  },
+  {
+    "name": "Pub Style Chicken Strips, Fully Cooked",
+    "price": "11.99",
+    "com_price": "1.71",
+    "com_quantity": "100",
+    "com_unit": "g"
+  },
+  {
+    "name": "Dragon Fruit",
+    "price": "2.99",
+    "com_price": "2.99",
+    "com_quantity": "1",
+    "com_unit": "ea"
+  },
+  {
+    "name": "Oat For Coffee, Vanilla, Plant Based, Dairy Free Coffee Creamer",
+    "price": "5",
+    "com_price": "0.56",
+    "com_quantity": "100",
+    "com_unit": "ml"
+  },
+  {
+    "name": "Spinach, Bunched",
+    "price": "1.99",
+    "com_price": "1.99",
+    "com_quantity": "1",
+    "com_unit": "ea"
+  },
+  {
+    "name": "Cola Bottle",
+    "price": "2.75",
+    "com_price": "0.14",
+    "com_quantity": "100",
+    "com_unit": "ml"
+  },
+  {
+    "name": "Light 5% M.F. Sour Cream ",
+    "price": "2.25",
+    "com_price": "0.9",
+    "com_quantity": "100",
+    "com_unit": "ml"
+  },
+  {
+    "name": "Beef Rib Eye Steak",
+    "price": "8",
+    "com_price": "4.71",
+    "com_quantity": "100",
+    "com_unit": "g"
+  },
+  {
+    "name": "Malted Milk Chocolatey Eggs In A Candy Shell  ",
+    "price": "5.99",
+    "com_price": "1.76",
+    "com_quantity": "100",
+    "com_unit": "g"
+  },
+  {
+    "name": "Meatless Meatballs",
+    "price": "6.99",
+    "com_price": "1.94",
+    "com_quantity": "100",
+    "com_unit": "g"
+  },
+  {
+    "name": "Outside Round Roast",
+    "price": "24",
+    "com_price": 2.864,
+    "com_quantity": 100,
+    "com_unit": "g"
+  },
+  {
+    "name": "Rib Eye Steaks, Montreal Spice",
+    "price": "12",
+    "com_price": "4.14",
+    "com_quantity": "100",
+    "com_unit": "g"
+  },
+  {
+    "name": "Beef Knee Bones",
+    "price": "7.37",
+    "com_price": 1.365,
+    "com_quantity": 100,
+    "com_unit": "g"
+  },
+  {
+    "name": "Shirriff Lemon Pie Filling & Dessert Mix",
+    "price": "4.29",
+    "com_price": "1.31",
+    "com_quantity": "100",
+    "com_unit": "g"
+  },
+  {
+    "name": "Artificial Vanilla Extract, Club Size",
+    "price": "9",
+    "com_price": "0.9",
+    "com_quantity": "100",
+    "com_unit": "ml"
+  },
+  {
+    "prourl": "https://api.pcexpress.ca/pcx-bff/api/v1/products/20143381001_KG?lang=en&date=06042025&pickupType=STORE&storeId=3640&banner=nofrills",
+    "name": "Roma Tomatoes",
+    "price": "0.66",
+    "com_price": 0.549,
+    "com_quantity": 100,
+    "com_unit": "g",
+    "timestamp": "2025-04-07T00:59:39.440Z"
+  },
+  {
+    "prourl": "https://api.pcexpress.ca/pcx-bff/api/v1/products/20059635001_EA?lang=en&date=06042025&pickupType=STORE&storeId=3640&banner=nofrills",
+    "name": "Mango",
+    "price": "1.29",
+    "com_price": "1.29",
+    "com_quantity": "1",
+    "com_unit": "ea",
+    "timestamp": "2025-04-07T00:59:46.545Z"
+  },
+  {
+    "prourl": "https://api.pcexpress.ca/pcx-bff/api/v1/products/20091825001_EA?lang=en&date=06042025&pickupType=STORE&storeId=3640&banner=nofrills",
+    "name": "Cilantro",
+    "price": "0.99",
+    "com_price": "0.99",
+    "com_quantity": "1",
+    "com_unit": "ea",
+    "timestamp": "2025-04-07T00:59:53.164Z"
+  },
+  {
+    "prourl": "https://api.pcexpress.ca/pcx-bff/api/v1/products/20143381001_KG?lang=en&date=06042025&pickupType=STORE&storeId=3640&banner=nofrills",
+    "name": "Roma Tomatoes",
+    "price": "0.66",
+    "com_price": 0.549,
+    "com_quantity": 100,
+    "com_unit": "g",
+    "timestamp": "2025-04-07T01:01:24.476Z"
+  },
+  {
+    "prourl": "https://api.pcexpress.ca/pcx-bff/api/v1/products/20059635001_EA?lang=en&date=06042025&pickupType=STORE&storeId=3640&banner=nofrills",
+    "name": "Mango",
+    "price": "1.29",
+    "com_price": "1.29",
+    "com_quantity": "1",
+    "com_unit": "ea",
+    "timestamp": "2025-04-07T01:01:31.727Z"
+  },
+  {
+    "prourl": "https://api.pcexpress.ca/pcx-bff/api/v1/products/20091825001_EA?lang=en&date=06042025&pickupType=STORE&storeId=3640&banner=nofrills",
+    "name": "Cilantro",
+    "price": "0.99",
+    "com_price": "0.99",
+    "com_quantity": "1",
+    "com_unit": "ea",
+    "timestamp": "2025-04-07T01:01:38.898Z"
+  }
+]

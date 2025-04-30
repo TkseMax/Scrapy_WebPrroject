@@ -1,0 +1,49 @@
+url,name,price,com_price,com_quantity,com_unit,timestamp
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20747774_KG?lang=en&date=12042025&pickupType=STORE&storeId=7411&banner=nofrills,Tip Roast Sirloin,26.27,2.643,100,g,2025-04-12T16:32:12.060Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21029930_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Organics Dark Roast Single Serve Coffee Pods,9,0.75,1,ea,2025-04-12T16:32:17.883Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20129539_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,"Crabmeat, Chunk",7.49,6.24,100,g,2025-04-12T16:32:23.396Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20081165_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,"Mini Eggs, Easter Chocolatey Candy",12.49,3.12,100,g,2025-04-12T16:32:29.101Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21381581_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Guacamole Crunch Chopped Salad Kit,5.99,1.88,100,g,2025-04-12T16:32:35.288Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20719518_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,"COLLECTION Eggs, Hazelnut Milk Chocolate, Creamy Hazelnut Filling, 10 Chocolates",3.99,3.99,100,g,2025-04-12T16:32:41.579Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20133614_KG?lang=en&date=12042025&pickupType=STORE&storeId=7411&banner=nofrills,Grade A Fresh Turkey 11 Kg and Up,77.4,0.615,100,g,2025-04-12T16:32:47.272Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21106233_C06?lang=en&date=12042025&pickupType=STORE&storeId=7411&banner=nofrills,"Zero Sugar Soda, Cola",7,0.35,100,ml,2025-04-12T16:32:52.990Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21629531_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Salsa Cheese Dip,4.99,1.25,100,ml,2025-04-12T16:32:58.622Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21001575_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Tricolour Rotini Pasta,2.49,0.55,100,g,2025-04-12T16:33:04.819Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20708540_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Belle Crème Triple Cream Cheese,4,3.2,100,g,2025-04-12T16:33:10.531Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20304672001_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Large Marshmallows,2.99,0.75,100,g,2025-04-12T16:33:16.189Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20707974_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Rose Pasta Sauce,3,0.73,100,ml,2025-04-12T16:33:22.108Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21179848_KG?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,"Steelhead Trout Fillet, Fresh",13.65,3.3049999999999997,100,g,2025-04-12T16:33:27.814Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21609314_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Milk Chocolate Hollow Bunny,3.99,3.99,100,g,2025-04-12T16:33:33.751Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21289708_EA?lang=en&date=12042025&pickupType=STORE&storeId=7411&banner=nofrills,Gouda Cheese,6.79,1.7,100,g,2025-04-12T16:33:38.990Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21289722_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Havarti Cheese,6.79,1.7,100,g,2025-04-12T16:33:46.277Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20357632_KG?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,"Top Sirloin Steak, Club Pack",46.01,3.8340000000000005,100,g,2025-04-12T16:33:52.869Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20316019001_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,100% Pure Semi-Sweet Chocolate Baking Bar,6.79,3.02,100,g,2025-04-12T16:33:58.604Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21454211_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,"Chicken Stix, Fully Cooked",10.49,3.5,100,g,2025-04-12T16:34:04.312Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21045602_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Merlot Dealcoholized Wine,8.25,1.1,100,ml,2025-04-12T16:34:11.225Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21587411_C12?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Zero Sugar Grapefruit,7.99,0.19,100,ml,2025-04-12T16:34:17.389Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20123288_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,100% Pomegranate Juice,13.99,1,100,ml,2025-04-12T16:34:23.040Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20042132_KG?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,"Frozen Utility Turkey, 3-5kg",33.81,0.747,100,g,2025-04-12T16:34:28.774Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21474721_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,"Bananas, Pineapple & Cranberries Trail Mix",6,4,100,g,2025-04-12T16:34:34.942Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21398805_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Marshmallow Hot Chocolate,6.99,1.55,100,g,2025-04-12T16:34:40.346Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20012895_EA?lang=en&date=12042025&pickupType=STORE&storeId=7411&banner=nofrills,"Easter Maxi SURPRISE Egg (Classic), Jumbo Chocolate Easter Egg with Toy",9.99,6.66,100,g,2025-04-12T16:34:45.833Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21469201_EA?lang=en&date=12042025&pickupType=STORE&storeId=7411&banner=nofrills,Dry-Roasted Sea Salt Pistachios,8.49,4.99,100,g,2025-04-12T16:34:51.381Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20581737_EA?lang=en&date=12042025&pickupType=STORE&storeId=7411&banner=nofrills,"Prosciutto, Smoked",4,4,100,g,2025-04-12T16:34:56.503Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21356611_EA?lang=en&date=12042025&pickupType=STORE&storeId=7411&banner=nofrills,Coconut Cashews Organic,6.99,4.37,100,g,2025-04-12T16:35:01.921Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21399927_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Turon Langka,5.49,1.21,100,g,2025-04-12T16:35:08.823Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20302816007_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,"Turkey, 25% Less Salt Gravy Mix",1,4,100,g,2025-04-12T16:35:14.950Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21291164_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Sugar Free Syrup ,2.99,1.2,100,ml,2025-04-12T16:35:21.457Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20774420_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,10% Half & Half Cream,3.35,0.71,100,ml,2025-04-12T16:35:27.693Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21403481_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Decaffeinated Orange Pekoe Premium Black Tea,5.69,0.12,1,ea,2025-04-12T16:35:34.282Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21521168_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,"Rainbow Cheese Tortellini, Small",4.49,1.28,100,g,2025-04-12T16:35:40.468Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20319871_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Blue Goodness,6.49,0.69,100,ml,2025-04-12T16:35:46.696Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21206269_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Microwave Popcorn! Butter Lovers Flavour (14-78 G Bags),9.99,0.91,100,g,2025-04-12T16:35:52.799Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21289738_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Light Medium Cheddar Cheese,5.99,1.5,100,g,2025-04-12T16:35:58.806Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21427851_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Herbal Tea Goodnight Blend,10.99,0.22,1,ea,2025-04-12T16:36:04.846Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20325814_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Spring Herb Italian Vinaigrette,5.99,1.71,100,ml,2025-04-12T16:36:11.679Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20808471_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Fettuccine Egg Pasta,2.79,1.12,100,g,2025-04-12T16:36:18.393Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21000963_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Chopped Kale,3.29,0.66,100,g,2025-04-12T16:36:25.205Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21395368_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Chocolate Caramel Pecan Cluster New York-Style Cheesecake,11,1.83,100,g,2025-04-12T16:36:32.921Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21528206_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,Chow Mein Noodles ,2.99,0.75,100,g,2025-04-12T16:36:39.774Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21664831_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,"BAR Energy Bars, Cookies & Creme, Granola Bar, High in Protein",2.29,3.37,100,g,2025-04-12T16:36:47.180Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20753706_EA?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,"Bisquick Gluten Free Variety Baking Mix, for Pancakes, Waffles, Biscuits and more",6.99,1.54,100,g,2025-04-12T16:36:54.214Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20289213001_KG?lang=en&date=12042025&pickupType=STORE&storeId=3640&banner=nofrills,SweeTango Apples,1.15,0.549,100,g,2025-04-12T16:37:01.644Z

@@ -1,0 +1,49 @@
+url,name,price,com_price,com_quantity,com_unit,timestamp
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20059635001_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Mango,1.49,1.49,1,ea,2025-04-11T14:30:53.405Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20143381001_KG?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,Roma Tomatoes,0.66,0.549,100,g,2025-04-11T14:30:59.600Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20091825001_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Cilantro,0.99,0.99,1,ea,2025-04-11T14:31:06.174Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21004355001_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,"Garlic Bulbs, 3-count",0.89,0.3,1,ea,2025-04-11T14:31:12.257Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20179038001_KG?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Ginger,0.92,0.43899999999999995,100,g,2025-04-11T14:31:18.395Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20135581001_KG?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Colossal Garlic,1.32,1.3210000000000002,100,g,2025-04-11T14:31:25.187Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21547034_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Ritz Original Crackers,2.5,1.39,100,g,2025-04-11T14:31:31.521Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20811362001_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,"Red Onions, 3 lb Bag",4.99,0.37,100,g,2025-04-11T14:31:38.330Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21592461_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Smoked Black Forest Ham Slices,3.5,2,100,g,2025-04-11T14:31:44.639Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20088387001_KG?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Jalapeno Peppers,0.55,1.1,100,g,2025-04-11T14:31:51.127Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21245360_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,"Almond For Coffee, Vanilla Flavour, Plant Based Dairy Free Coffee Creamer",5,0.56,100,ml,2025-04-11T14:31:57.074Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20328231002_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,"Almond Milk Alternative, Zero Sugar Original, Dairy-Free",4,0.21,100,ml,2025-04-11T14:32:03.152Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21037796_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,"Oat Beverage, Original",3.5,0.2,100,ml,2025-04-11T14:32:09.382Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20327647_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,"Almond Beverage, Unsweetened Original ",3.5,0.19,100,ml,2025-04-11T14:32:15.776Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20015746001_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Curly Parsley,1.99,1.99,1,ea,2025-04-11T14:32:21.960Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20306687002_C24?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Pepsi Cans ,13.99,0.16,100,ml,2025-04-11T14:32:28.098Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20570507_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,"Tofu, Extra Firm",2.5,0.71,100,g,2025-04-11T14:32:34.215Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21047848_C01?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,Title not available,Price not available,Comparing Price unavailable,Comparing Quantiy unavailable,Comparing unit not available,2025-04-11T14:32:40.319Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20789931_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,"Pacific White Shrimp Raw Peeled, Large",10.99,2.75,100,g,2025-04-11T14:32:46.357Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20155709001_KG?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,Purple Eggplants,2.5,0.43899999999999995,100,g,2025-04-11T14:32:52.484Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20318694001_C12?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,Cola Zero Sugar Fridge Pack Cans,7.99,0.19,100,ml,2025-04-11T14:32:58.634Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20712998_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Snap Peas,3.99,1.76,100,g,2025-04-11T14:33:04.974Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20111926001_KG?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,"Plantains, Single",0.94,0.284,100,g,2025-04-11T14:33:10.887Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20121509001_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Ataulfo Mango,1.69,1.69,1,ea,2025-04-11T14:33:17.078Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20308197001_C24?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Cola Cans,13.99,0.16,100,ml,2025-04-11T14:33:23.602Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21245361_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,"Oat For Coffee, Vanilla, Plant Based, Dairy Free Coffee Creamer",5,0.56,100,ml,2025-04-11T14:33:29.948Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20308979_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,"Organic Soy Milk Alternative, Unsweetened Original, Dairy-Free",4,0.21,100,ml,2025-04-11T14:33:36.209Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21547048_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Wheat Thins Multigrain Crackers,2.5,1.39,100,g,2025-04-11T14:33:42.660Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20162840001_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,"Spinach, Bunched",1.99,1.99,1,ea,2025-04-11T14:33:49.375Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21051353_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Naan Original 5 Flatbreads,3,0.6,100,g,2025-04-11T14:33:55.635Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20065285_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,"Natural Selections Sliced Black Forest Deli Ham, Smoked",7.99,4.566,100,g,2025-04-11T14:34:02.603Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20328231004_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,"Almond Milk Alternative, Unsweetened, Vanilla Flavour, Dairy-Free",4,0.21,100,ml,2025-04-11T14:34:08.836Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20048070001_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,Rapini,3.99,3.99,1,ea,2025-04-11T14:34:15.105Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20009282_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,"Natural Selections Sliced Deli Turkey Breast, Oven Roasted",7.99,4.566,100,g,2025-04-11T14:34:21.249Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21031316_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Tortilla Chips Salted,4.49,1.28,100,g,2025-04-11T14:34:27.476Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21590279_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,Smoked Turkey Breast Slices,3.5,2,100,g,2025-04-11T14:34:33.716Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20813711001_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,Free Range Large Brown Eggs,7.74,0.65,1,ea,2025-04-11T14:34:39.753Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21378707_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Coconut Milk,1.5,0.38,100,ml,2025-04-11T14:34:45.748Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20082279001_KG?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Baby Bok Choy,3.62,0.549,100,g,2025-04-11T14:34:51.985Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21128369_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Milk 2%,6.49,0.43,100,ml,2025-04-11T14:34:58.323Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21589295_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Cooked Ham Slices,3.5,2,100,g,2025-04-11T14:35:04.515Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21092033_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Traditional Naan Dippers,4.5,2.25,100,g,2025-04-11T14:35:10.762Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20296926002_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Soda      ,1.69,0.08,100,ml,2025-04-11T14:35:17.343Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21650490_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,"DAIRY MILK Fruit & Nut, Bag of 8 x 18 g Mini Bars",5,3.47,100,g,2025-04-11T14:35:24.005Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21040932_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,French Vanilla Milkshake,1.59,0.51,100,ml,2025-04-11T14:35:30.441Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21123226_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,Rich And Creamy Hot Chocolate,22.99,1.35,100,g,2025-04-11T14:35:36.912Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20103516_EA?lang=en&date=11042025&pickupType=STORE&storeId=3640&banner=nofrills,Chicken Bologna,2,0.533,100,g,2025-04-11T14:35:43.214Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/21542157_EA?lang=en&date=11042025&pickupType=STORE&storeId=7411&banner=nofrills,"Sliced Loaf Cake, Marble",5.5,1.6,100,g,2025-04-11T14:35:50.628Z

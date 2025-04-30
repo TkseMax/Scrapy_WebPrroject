@@ -1,0 +1,4 @@
+url,name,price,com_price,com_quantity,com_unit,timestamp
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20143381001_KG?lang=en&date=06042025&pickupType=STORE&storeId=3640&banner=nofrills,Roma Tomatoes,0.66,0.549,100,g,2025-04-06T23:34:29.071Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20059635001_EA?lang=en&date=06042025&pickupType=STORE&storeId=3640&banner=nofrills,Mango,1.29,1.29,1,ea,2025-04-06T23:34:36.470Z
+https://api.pcexpress.ca/pcx-bff/api/v1/products/20091825001_EA?lang=en&date=06042025&pickupType=STORE&storeId=3640&banner=nofrills,Cilantro,0.99,0.99,1,ea,2025-04-06T23:34:43.547Z

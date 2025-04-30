@@ -1,0 +1,3 @@
+(2, 'https://api.pcexpress.ca/pcx-bff/api/v1/products/20143381001_KG?lang=en&date=05042025&pickupType=STORE&storeId=3640&banner=nofrills', name: 'Roma Tomatoes', price: '0.66', comprice: 0.549, comquantity: 100, comunit: 'g', timestamp: '2025-04-05T18:35:56.938Z')
+{url: 'https://api.pcexpress.ca/pcx-bff/api/v1/products/20059635001_EA?lang=en&date=05042025&pickupType=STORE&storeId=3640&banner=nofrills',name: 'Mango',price: '1.29',com_price: '1.29',com_quantity: '1',com_unit: 'ea',timestamp: '2025-04-05T18:36:06.741Z'}
+  

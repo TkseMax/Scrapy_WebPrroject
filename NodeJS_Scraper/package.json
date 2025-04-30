@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@mrodrig/json-2-csv-cli": "^5.5.9",
+    "axios": "^1.8.4",
+    "chalk": "^5.4.1",
+    "cheerio": "^1.0.0",
+    "chromedriver": "^134.0.5",
+    "json-2-csv": "^5.5.9",
+    "jsonexport": "^3.2.0",
+    "pg": "^8.14.1",
+    "puppeteer": "^24.4.0",
+    "puppeteer-core": "^24.6.0",
+    "selenium-webdriver": "^4.30.0"
+  }
+}
